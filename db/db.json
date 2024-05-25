@@ -1,0 +1,56 @@
+{
+  "users": [],
+  "products": [
+    {
+      "model": "Смартфон OPPO Reno7 8/128 Sunset Orange",
+      "releaseYear": "2024",
+      "category": 3,
+      "price": "4399000",
+      "createdAt": "2024-05-25T10:34:01.250Z",
+      "isVisible": false,
+      "description": "Датчик изображения для фронтальной камеры IMX709, эксклюзивно разработанный OPPO и созданный с использованием аппаратного обеспечения Sony, отличается более высокой возможностью улавливать свет. Большее количество света позволяет делать яркие и чёткие изображения в условиях низкой освещённости.",
+      "image": "https://mini-io-api.texnomart.uz/catalog/product/1013/101365/194196/3f7ba771-1d0b-464c-bd83-a45cbb560952.webp",
+      "id": 4
+    },
+    {
+      "model": "Ноутбук Apple MacBook Pro 13 M1 MYD82RU/A",
+      "releaseYear": "2020",
+      "category": 2,
+      "price": "17122000",
+      "createdAt": "2024-05-25T11:13:11.683Z",
+      "isVisible": true,
+      "description": "Центральный процессор компьютера модели MacBook Pro 13 M1 MYD82RU/A работает до 3,5 раза быстрее. Графический процессор — до пяти раз. А благодаря системе Neural Engine скорость машинного обучения увеличилась до десяти раз.",
+      "image": "https://mini-io-api.texnomart.uz/catalog/product/943/94383/171295/031088aa-bf59-4e23-890c-ceb66fbd3f4c.jpg",
+      "id": 5
+    },
+    {
+      "model": "testdee",
+      "releaseYear": "2222",
+      "category": 1,
+      "price": "1234531",
+      "createdAt": "2024-05-25T11:59:23.316Z",
+      "isVisible": false,
+      "description": "test",
+      "image": "https://mini-io-api.texnomart.uz/catalog/product/3572/357249/198502/89f30090-53f3-4e0e-9dab-c8c03339d898-medium.webp",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Техника для кухни"
+    },
+    {
+      "id": 2,
+      "name": "Компьютерная техника"
+    },
+    {
+      "id": 3,
+      "name": "Смартфоны и гаджеты"
+    },
+    {
+      "id": 4,
+      "name": "Телевизоры и телекарты"
+    }
+  ]
+}
